@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdulrahman Alfawal</h1>
 <h3 align="center">Junior Web Developer</h3>
 
-- I’m currently learning **NestJS, AWS, Redis, Redux.**
+- I’m currently learning **NestJS, AWS, Redis, Web Sockets (ws, uWebSocket).**
 
 - All of my projects are available [Here!](https://github.com/alfawal)
 
