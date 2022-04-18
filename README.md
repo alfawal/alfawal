@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdulrahman Alfawal</h1>
-<h3 align="center">Junior Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 
-- I’m currently learning **NestJS, AWS, Redis, Web Sockets (ws, uWebSocket).**
+- I’m currently learning **NestJS, AWS, Redis, LoopBack 4.**
 
 - All of my projects are available [Here!](https://github.com/alfawal)
 
@@ -19,4 +19,4 @@
 <a href="https://linkedin.com/in/alfawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfawal" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfawal&label=Profile%20views&color=0e75b6&style=flat" alt="alfawal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alfawal&label=Profile%20views&color=blue&style=for-the-badge" alt="alfawal" /> </p>
