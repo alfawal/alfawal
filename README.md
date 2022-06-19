@@ -7,7 +7,7 @@
 
 - Ask me about **Backend, React.**
 
-- How to reach me: [Email](mailto:abdulrahman.hadi4@gmail.com)
+- How to reach me: [Email](mailto:github@alfawal.dev)
 
 - Know about my experiences: [CV](https://drive.google.com/file/d/1eOj58Bp5KkqvJ74bY5e2ar-qyOh6L6ha/view?usp=sharing)
 
