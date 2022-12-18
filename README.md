@@ -1,13 +1,12 @@
 ## Hello! I am Abdulrahman Alfawal
 
-![Visitors](https://komarev.com/ghpvc/?username=alfawal&label=Visitors&color=blue&style=flat)
+[![Visitors](https://komarev.com/ghpvc/?username=alfawal&label=Visitors&color=blue&style=flat)](https://github.com/alfawal)
 \*
 [![Visit my website](https://img.shields.io/badge/Visit%20my%20website%20|%20alfawal.dev-brightgreen?style=flat&link=https%3A%2F%2Falfawal.dev&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNOC41IDFhNi41IDYuNSAwIDEgMSAwIDEzIDYuNSA2LjUgMCAwIDEgMC0xM3ptNC44OTQgNGE1LjUyNyA1LjUyNyAwIDAgMC0zLjA1My0yLjY3NmMuNDQ0Ljg0Ljc2NSAxLjc0Ljk1MyAyLjY3NmgyLjF6bS41ODIgMi45OTVBNS4xMSA1LjExIDAgMCAwIDE0IDcuNWE1LjQ2NCA1LjQ2NCAwIDAgMC0uMjEzLTEuNWgtMi4zNDJjLjAzMi4zMzEuMDU1LjY2NC4wNTUgMWExMC4xMTQgMTAuMTE0IDAgMCAxLS4yMDYgMmgyLjQ5M2MuMDk1LS4zMjkuMTU4LS42NjUuMTktMS4wMDV6bS0zLjUzNSAwbC4wMDYtLjA1MUE5LjA0IDkuMDQgMCAwIDAgMTAuNSA3YTguOTk0IDguOTk0IDAgMCAwLS4wNzYtMUg2LjU3NkE4LjgyIDguODIgMCAwIDAgNi41IDdhOC45OCA4Ljk4IDAgMCAwIC4yMzMgMmgzLjUzNGMuMDc3LS4zMzIuMTM1LS42NjcuMTc0LTEuMDA1ek0xMC4yNDkgNWE4Ljk3NCA4Ljk3NCAwIDAgMC0xLjI1NS0yLjk3QzguODMgMi4wMTYgOC42NjYgMiA4LjUgMmEzLjYyIDMuNjIgMCAwIDAtLjMxMi4wMTVsLS4xODIuMDE1TDggMi4wNEE4Ljk3IDguOTcgMCAwIDAgNi43NTEgNWgzLjQ5OHpNNS43MDYgNWE5Ljk1OSA5Ljk1OSAwIDAgMSAuOTY2LTIuNjgxQTUuNTI3IDUuNTI3IDAgMCAwIDMuNjA2IDVoMi4xek0zLjIxMyA2QTUuNDggNS40OCAwIDAgMCAzIDcuNSA1LjQ4IDUuNDggMCAwIDAgMy4yMTMgOWgyLjQ5M0ExMC4wMTYgMTAuMDE2IDAgMCAxIDUuNSA3YzAtLjMzNi4wMjMtLjY2OS4wNTUtMUgzLjIxM3ptMi43NTQgNGgtMi4zNmE1LjUxNSA1LjUxNSAwIDAgMCAzLjgxOSAyLjg5M0ExMC4wMjMgMTAuMDIzIDAgMCAxIDUuOTY3IDEwek04LjUgMTIuNjQ0QTguOTQyIDguOTQyIDAgMCAwIDkuOTc4IDEwSDcuMDIyQTguOTQzIDguOTQzIDAgMCAwIDguNSAxMi42NDR6TTExLjAzMyAxMGExMC4wMjQgMTAuMDI0IDAgMCAxLTEuNDU5IDIuODkzQTUuNTE3IDUuNTE3IDAgMCAwIDEzLjM5MyAxMGgtMi4zNnoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=)](https://alfawal.dev)
-![Status](https://img.shields.io/website?down_message=down&label=Status&style=flat&up_message=up&up_color=default&url=https%3A%2F%2Falfawal.dev)
+[![Status](https://img.shields.io/website?down_message=down&label=Status&style=flat&up_message=up&up_color=default&url=https%3A%2F%2Falfawal.dev)](https://alfawal.dev)
 \*
-[![Visit my website](https://img.shields.io/badge/Visit%20my%20LinkedIn-blue?style=flat&link=https://www.linkedin.com/in/alfawal&logo=LinkedIn)](https://www.linkedin.com/in/alfawal)
+[![Visit my LinkedIn](https://img.shields.io/badge/Visit%20my%20LinkedIn-blue?style=flat&link=https://www.linkedin.com/in/alfawal&logo=LinkedIn)](https://www.linkedin.com/in/alfawal)
 
 A backend developer who works at [Radity](https://radity.com/en).
 
 Currently working with Python and Django
-
