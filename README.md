@@ -11,4 +11,4 @@ A backend developer who works at [Radity](https://radity.com/en).
 
 Currently working with Python and Django
 <br>
-Previously worked with JavaScript and I am continuously experimenting with both Rust and JavaScript.
+Previously worked with JavaScript and I am continuously experimenting with both Rust and Go.
