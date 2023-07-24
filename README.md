@@ -7,7 +7,7 @@
 \*
 [![Visit my LinkedIn](https://img.shields.io/badge/Visit%20my%20LinkedIn-blue?style=flat&link=https://www.linkedin.com/in/alfawal&logo=LinkedIn)](https://www.linkedin.com/in/alfawal)
 
-A backend developer who works at [Radity](https://radity.com/en).
+A backend developer who's open to work.
 
 Currently working with Python and Django
 <br>
