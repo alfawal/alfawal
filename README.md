@@ -1,6 +1,6 @@
-## Hello! I am Abdulrahman Alfawal
+## Hello! I'm Abdulrahman Alfawal
 
-A backend developer who's open to work. [Résumé (Online version)](https://cv.alfawal.dev).
+A backend developer who's open to work.
 
 Currently working with Python and Django
 <br>
