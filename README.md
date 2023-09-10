@@ -1,7 +1,5 @@
 ## Hello! I am Abdulrahman Alfawal
 
-[![Visitors](https://komarev.com/ghpvc/?username=alfawal&label=Visitors&color=blue&style=flat)](https://github.com/alfawal)
-
 A backend developer who's open to work. [Résumé (Online version)](https://cv.alfawal.dev).
 
 Currently working with Python and Django
