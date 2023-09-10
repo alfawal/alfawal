@@ -12,7 +12,7 @@ Currently working with Python and Django
 Previously worked with JavaScript and I am continuously experimenting with both Rust and Go.
 <br>
 <br>
-<a href="<https://www.linkedin.com/in/alfawal>">
+<a href="https://www.linkedin.com/in/alfawal">
     <img src="./assets/buttons/linkedin.png" width="175"
             alt="Alfawal's LinkedIn"
     />
