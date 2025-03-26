@@ -8,7 +8,7 @@ Previously worked with JavaScript and I am continuously experimenting with both 
 <br>
 <br>
 <a href="https://github.com/alfawal">
-    <img src="https://alfawal.dev/api/visitors" width="175"
+    <img src="https://old.alfawal.dev/api/visitors" width="175"
             alt="Alfawal's Profile Views"
     />
 </a>
