@@ -1,10 +1,6 @@
 ## Hello! I'm Abdulrahman Alfawal
 
-A backend developer who's open to work.
-
-Currently working with Python and Django
-<br>
-Previously worked with JavaScript and I am continuously experimenting with both Rust and Go.
+Strategic and technically versatile product leader.
 <br>
 <br>
 <a href="https://github.com/alfawal">
